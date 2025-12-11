@@ -1,0 +1,61 @@
+JOHN DOE
+Software Engineer
+
+Contact Information:
+Email: john.doe@email.com
+Phone: +1 (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced Full-Stack Software Engineer with 8+ years of expertise in building scalable web applications. 
+Proficient in Python, JavaScript, React, and cloud technologies. Proven track record of leading development 
+teams and delivering high-quality software solutions.
+
+WORK EXPERIENCE
+
+Senior Software Engineer | Tech Corp Inc.
+January 2020 - Present (4 years)
+- Led a team of 5 developers in building a microservices-based e-commerce platform
+- Implemented CI/CD pipelines reducing deployment time by 60%
+- Architected and developed RESTful APIs serving 1M+ daily requests
+- Technologies: Python, Django, React, AWS, Docker, Kubernetes
+
+Software Engineer | StartUp Solutions
+June 2017 - December 2019 (2.5 years)
+- Developed full-stack web applications using React and Node.js
+- Optimized database queries improving application performance by 40%
+- Collaborated with product team to define technical requirements
+- Technologies: JavaScript, Node.js, React, MongoDB, PostgreSQL
+
+Junior Developer | Digital Agency
+August 2015 - May 2017 (1.8 years)
+- Built responsive websites and web applications for clients
+- Maintained and updated existing codebases
+- Technologies: HTML, CSS, JavaScript, PHP, MySQL
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley
+Graduated: May 2015
+GPA: 3.7/4.0
+
+TECHNICAL SKILLS
+
+Programming Languages: Python, JavaScript, TypeScript, Java, SQL
+Frontend: React, Vue.js, HTML5, CSS3, Tailwind CSS
+Backend: Django, Flask, Node.js, Express.js
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Jenkins
+Tools: Git, JIRA, Agile/Scrum
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2022)
+- Certified Kubernetes Administrator (2021)
+
+PROJECTS
+- Open-source contributor to Django REST Framework
+- Built a personal finance tracking app with 10K+ users
+- Created a machine learning model for stock price prediction
+
